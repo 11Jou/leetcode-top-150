@@ -7,4 +7,4 @@ I’m solving these questions using **Python or Java**.
 
 ---
 
-- `question_title.py` – My solution with comments
+- `question_title.py` or `question_title.java` – My solution with comments
